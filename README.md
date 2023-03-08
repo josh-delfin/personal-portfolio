@@ -1,1 +1,1 @@
-Link here: https://github.com/josh-delfin/personal-portfolio
+Link here: https://josh-delfin.github.io/personal-portfolio/
